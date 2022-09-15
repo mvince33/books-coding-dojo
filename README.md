@@ -1,1 +1,1 @@
-# books-coding-dojo
+# Books assignmnet for Coding Dojo
